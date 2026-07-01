@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6j0355/v1
+canonical_location: https://kanripo.org/bkk/KR6j0355/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛祕密善門陀羅尼經
+  identifiers:
+    alt_id:
+    - T20n1138b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1138b.xml
+    old_id: T20n1138b
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0355_000.yaml, hash: 'sha256:c61a860c61ccf8881793f719a561a793f8ac174b823eba2932190dac52d4a337'}
+  - {seq: 1, filename: KR6j0355_001.yaml, hash: 'sha256:cd927edc9e6a0b9cf0ec121c70a0dcc48b76ff3a5ffa9440c52599bd9a0f131c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0355_001.markers.yaml, hash: 'sha256:2b83ff662323d933d046616d32b7475361bf13c75d49dfcd70d28d8ef6352c9d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0355_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1903
+  label: 金剛祕密善門陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:0ccc5cc41a527f7e38e33ba9864a69744a4c5ab1754e631c9d8a47451a57ab4e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

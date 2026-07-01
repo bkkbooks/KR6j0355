@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0355/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛祕密善門陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1138b.xml
+    old_id: T20n1138b
+hash: sha256:c61a860c61ccf8881793f719a561a793f8ac174b823eba2932190dac52d4a337
