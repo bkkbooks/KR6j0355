@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0355_000.yaml, hash: 'sha256:c61a860c61ccf8881793f719a561a793f8ac174b823eba2932190dac52d4a337'}
-  - {seq: 1, filename: KR6j0355_001.yaml, hash: 'sha256:cd927edc9e6a0b9cf0ec121c70a0dcc48b76ff3a5ffa9440c52599bd9a0f131c'}
+  - {seq: 1, filename: KR6j0355_001.yaml, hash: 'sha256:2aa9385d907bf03b04d71f494830d37f3eabac05aa564008c7d67c67cfbca761'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0355_001.markers.yaml, hash: 'sha256:2b83ff662323d933d046616d32b7475361bf13c75d49dfcd70d28d8ef6352c9d'}
+  - {seq: 0, role: markers, filename: assets/KR6j0355_000.markers.yaml, hash: 'sha256:474f6a771220623ed927811d8e592acd7cbcfdf0f827ddeb08377182511b67dc'}
+  - {seq: 1, role: markers, filename: assets/KR6j0355_001.markers.yaml, hash: 'sha256:d3a8cf5cec0c32f34d9f46dcbfeb202c26c8e0e08ecacd8ac2327008118044f7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 金剛祕密善門陀羅尼經
   type: juan
   level: 1
-hash: sha256:0ccc5cc41a527f7e38e33ba9864a69744a4c5ab1754e631c9d8a47451a57ab4e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1b7ae6f6b9b1f56d3d7646136d740db625ef7f6e1978c5631f8b375c36ea8677
